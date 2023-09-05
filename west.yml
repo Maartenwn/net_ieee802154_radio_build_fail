@@ -9,3 +9,5 @@ manifest:
       path: zephyr
   self:
     path: net_ieee802154_radio_build_fail
+    # This line configures west extensions.
+    west-commands: zephyr/scripts/west-commands

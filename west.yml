@@ -4,5 +4,6 @@ manifest:
       url-base: https://github.com/zephyrproject-rtos/zephyr
   projects:
     - name: zephyr
+    - remote: zephyr
   self:
     path: net_ieee802154_radio_build_fail

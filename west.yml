@@ -10,4 +10,4 @@ manifest:
       import: true
       clone-depth: 1
   self:
-    path: nrf52840dk_nrf52840
+    path: net_ieee802154_radio_build_fail

@@ -1,9 +1,9 @@
 manifest:
   remotes:
-    - name: zephyr
+    - name: zephyrproject
       url-base: https://github.com/zephyrproject-rtos/zephyr
   projects:
     - name: zephyr
-    - remote: zephyr
+    - remote: zephyrproject
   self:
     path: net_ieee802154_radio_build_fail

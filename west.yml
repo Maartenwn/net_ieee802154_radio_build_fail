@@ -5,5 +5,6 @@ manifest:
   projects:
     - name: zephyr
       remote: zephyrproject
+      revision: 8350fc2c63b10836bf3bf18a55f692fc6077e864
   self:
     path: net_ieee802154_radio_build_fail
